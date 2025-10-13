@@ -7,3 +7,5 @@ CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding
 
 <sup>1</sup>Shenzhen Key Laboratory of Robotics and Computer Vision.  
 <sup>2</sup>The Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
+
+More details will updates soon.
