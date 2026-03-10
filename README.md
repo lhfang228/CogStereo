@@ -2,7 +2,7 @@
 
 <h5 align="center">
 
-*Accepted by IEEE International Conference on Robotics and Automation*
+*Accepted by IEEE International Conference on Robotics and Automation （ICRA 2026, CCF B）*
 
 </h5>
 <h5 align="center">
