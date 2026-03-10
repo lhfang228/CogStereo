@@ -1,6 +1,10 @@
 <h2 align="center"> <a href="https://arxiv.org/abs/2510.22119">CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding</a></h2>
-<h3 align="center"> [Lihuang Fang](https://scholar.google.com/citations?hl=en&user=pFazUOQAAAAJ), Xiao Hu, [Yuchen Zou](https://scholar.google.com/citations?user=m9AfyE8AAAAJ&hl=en), [Hong Zhang](https://www.sustech.edu.cn/zh/faculties/zhanghong.html)
-</a></h3>
+<h3 align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=pFazUOQAAAAJ">Lihuang Fang</a>,
+  Xiao Hu,
+  <a href="https://scholar.google.com/citations?user=m9AfyE8AAAAJ&hl=en">Yuchen Zou</a>,
+  <a href="https://www.sustech.edu.cn/zh/faculties/zhanghong.html">Hong Zhang</a>
+</h3>
 
 
 <h5 align="center">
