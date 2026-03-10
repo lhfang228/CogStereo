@@ -1,15 +1,18 @@
-# CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding
+<h2 align="center"> <a href="https://arxiv.org/abs/2510.22119">CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding</a></h2>
+
+<h5 align="center">
 
 *Accepted by IEEE International Conference on Robotics and Automation*
 
+</h5>
+<h5 align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.22119-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.22119)
+</h5>
 
-**Authors:** [Lihuang Fang](https://rcvlab.eee.sustech.edu.cn/authors/lihuang_fang/)<sup>1,2</sup>, Xiao Hu, Yuchen Zou, [Hong Zhang](https://www.sustech.edu.cn/zh/faculties/zhanghong.html)<sup>*1,2</sup>, Life Fellow, IEEE  
+**Authors:** [Lihuang Fang](https://scholar.google.com/citations?hl=en&user=pFazUOQAAAAJ)<sup>1,2</sup>, Xiao Hu, [Yuchen Zou](https://scholar.google.com/citations?user=m9AfyE8AAAAJ&hl=en), [Hong Zhang](https://www.sustech.edu.cn/zh/faculties/zhanghong.html)<sup>*1,2</sup>  
 **(Corresponding Author: Hong Zhang.)**
 
-<sup>1</sup>Shenzhen Key Laboratory of Robotics and Computer Vision.  
-<sup>2</sup>The Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 
 ---
 
