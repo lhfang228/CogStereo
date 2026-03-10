@@ -1,6 +1,7 @@
-# CogStereo [ICRA 2026]
+# CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding
 
-CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding
+*Accepted by IEEE International Conference on Robotics and Automation*
+
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.22119-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.22119)
 
@@ -127,7 +128,7 @@ If you find this work useful, please consider citing:
 @inproceedings{fang2026cogstereo,
   title     = {CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding},
   author    = {Fang, Lihuang and Hu, Xiao and Zou, Yuchen and Zhang, Hong},
-  booktitle = {ICRA},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
   year      = {2026}
 }
 ```
